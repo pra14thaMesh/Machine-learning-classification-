@@ -1,2 +1,2 @@
 # Machine-learning-classification-
-Classification Algorithms.
+Classification Algorithms in python (jupyter notebook)
